@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dalal-Midterm-1, 2022</string>
+    <string name="statusSong">Song Currently Paused</string>
+    <string name="activity1Bttn">Go to Main Activity</string>
+    <string name="activity2Bttn">Go to Activity 2</string>
+    <string name="activity3Bttn">Go to Activity 3</string>
+    <string name="inActive1">You are in Activity 1</string>
+    <string name="inActive2">You are in Activity 2</string>
+    <string name="inActive3">You are in Activity 3</string>
+
+</resources>
